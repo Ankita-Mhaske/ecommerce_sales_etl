@@ -1,0 +1,22 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,sales_amount,state
+1001,03-01-2026,C001,Laptop Stand,Accessories,2,1200,2400,Maharashtra
+1002,05-01-2026,C002,Wireless Mouse,Accessories,3,650,1950,Karnataka
+1003,08-01-2026,C001,Keyboard,Accessories,1,1100,1100,Maharashtra
+1004,11-01-2026,C003,USB-C Hub,Accessories,2,900,1800,Gujarat
+1005,14-01-2026,C004,Monitor,Electronics,1,12500,12500,Delhi
+1006,17-01-2026,C005,Laptop Stand,Accessories,1,1200,1200,Tamil Nadu
+1007,19-01-2026,C002,Wireless Mouse,Accessories,2,650,1300,Karnataka
+1007,19-01-2026,C002,Wireless Mouse,Accessories,2,650,1300,Karnataka
+1008,22-01-2026,C006,Webcam,Electronics,2,2800,5600,Telangana
+1009,24-01-2026,C007,Keyboard,Accessories,2,1100,2200,Kerala
+1010,26-01-2026,C008,Monitor,Electronics,1,12000,12500,Maharashtra
+1011,28-01-2026,C009,USB-C Hub,Accessories,1,900,900,
+1012,30-01-2026,C010,Webcam,Electronics,1,2800,2800,Delhi
+1013,02-02-2026,C011,Laptop Stand,Accessories,2,1200,2400,Maharashtra
+1014,05-02-2026,C012,Monitor,Electronics,1,12500,12500,Karnataka
+1015,07-02-2026,C013,Wireless Mouse,Accessories,4,650,2600,Tamil Nadu
+1016,10-02-2026,C014,Keyboard,Accessories,2,1100,2200,Telangana
+1017,13-02-2026,C015,Webcam,Electronics,1,2800,2800,Kerala
+1018,16-02-2026,C016,USB-C Hub,Accessories,3,900,2700,Delhi
+1019,19-02-2026,C017,Monitor,Electronics,1,12500,12500,Maharashtra
+1020,22-02-2026,C018,Laptop Stand,Accessories,1,1200,1200,Gujarat
